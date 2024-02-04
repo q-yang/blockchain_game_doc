@@ -5,8 +5,38 @@ Information hub for research on blockchain games
 
 P2E（play-to-earn）玩赚游戏（或区块链游戏）利用代币经济和非同质化代币（NFT）来激励玩家与他们的平台互动。它们允许你通过玩游戏来赚取加密货币。你可以获得代币，然后用这些代币去获取诸如NFT或金钱之类的奖励。
 
+## 新闻与调查报告
+
+- BGA（Blockchain Game Alliance）：<https://dappradar.com/blog/category/bga-game-reports>
+- DappRadar
+  * Games blog <https://dappradar.com/blog/category/games>
+  * GameFi blog <https://dappradar.com/blog/category/gamefi>
+
+## 相关学术会议和期刊
+1. CHI
+2. CHI PLAY
+3. FDG
+4. IEEE ToG
+
 ## 链游平台
 - **Enjin** (<https://enjin.io/>): The world's first purpose-built blockchain for games and apps. Enjin is a Proof-of-Stake dual-layer chain with NFT-specific functions at the protocol level. [Enjin White Paper](https://pitch.com/public/9f2386f3-5f13-4811-add5-0ae6b12c2a64/d60fc885-f811-452c-8bbd-5206f9648241)
+
+- [Animoca Brands](https://www.animocabrands.com/)
+## 链游公司
+### 大公司
+1. Dapper Labs, Inc.
+2. Sky Mavis
+3. Splinterlands
+4. Animoca Brands Corporation Limited
+5. Immutable
+6. Uplandme, Inc.
+7. Illuvium
+00. Mythical Inc.
+00. ROKO GAME STUDIOS
+00. Autonomous Worlds Ltd.
+
+## 火爆一时的游戏
+- 0xUniverse
 
 ## 游戏（未上市）
 - Six Dragons <https://thesixdragons.com/>: a fantasy-themed open-world RPG. The game offers a vast 256 km2 fantasy world, where players can engage in epic battles, farm materials, craft over 300 unique items, and trade items with other players and improve their arsenal using powerful enchants.
